@@ -26,4 +26,4 @@ git push -u origin master
 hexo clean && hexo deploy
 ```
 
-Go to [GitHub Pages](cx-pan.github.io)
+Go to [GitHub Pages](https://cx-pan.github.io)
