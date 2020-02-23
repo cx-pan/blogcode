@@ -6,3 +6,4 @@ tags: [learning, Languages]
 # Sense-making in a new language
 
 Recently I was reading books in Chinese and English. 
+It was not comfortable to read Chinese especially 
