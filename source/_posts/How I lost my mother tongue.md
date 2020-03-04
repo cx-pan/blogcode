@@ -1,7 +1,7 @@
 ---
 title: How I lost my mother tongue
 date: 2020-02-23 23:22:12
-tags: [learning, Languages]
+tags: [Languages]
 ---
 
 _or let say how I need to combine two languages to shape a new "me". I need English as part of my identity._
