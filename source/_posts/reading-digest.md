@@ -12,21 +12,20 @@ Note: Hanna's personal basic info. She was such an ordinary woman that nobody wi
 
 > When I see a woman of thirty-six today, I find her young. But when I see a boy of fifteen, I see a child.
 
->I also knew that I wasn’t missing anything, and yet I often had the feeling that absolutely everything could be happening while I wasn’t there. There was a long stretch when I did not dare ask myself whether I would rather be at the swimming pool or with Hanna. 
+> The anesthetic functioned not only in the courtroom, and not only to allow me to see Hanna as if it was someone else who had loved and desired her, someone I knew well but who wasn’t me. In every part of my life, too, I stood outside myself and watched; I saw myself functioning at the university, with my parents and brother and sister and my friends, but inwardly I felt no involvement. 
 
-> Who had given me the injection? Had I done it myself, because I couldn’t manage without anesthesia? The anesthetic functioned not only in the courtroom, and not only to allow me to see Hanna as if it was someone else who had loved and desired her, someone I knew well but who wasn’t me. In every part of my life, too, I stood outside myself and watched; I saw myself functioning at the university, with my parents and brother and sister and my friends, but inwardly I felt no involvement. 
-
-Note: the sould detached from the body. It seems he was living an unme life since the disapearance of Hanna. Hanna brought him alive at that time. 
+Note: the soul detached from the body. It seems he was living an unme life since the disapearance of Hanna. Only Hanna could brought him alive. 
 
 > It was like being a prisoner in the death camps who survives month after month and becomes accustomed to the life, while he registers with an objective eye the horror of the new arrivals: registers it with the same numbness that he brings to the murders and deaths themselves. All survivor literature talks about this numbness, in which life’s functions are reduced to a minimum, behavior becomes completely selfish and indifferent to others, and gassing and burning are everyday occurrences. In the rare accounts by perpetrators, too, the gas chambers and ovens become ordinary scenery, the perpetrators reduced to their few functions and exhibiting a mental paralysis and indifference, a dullness that makes them seem drugged or drunk. The defendants seemed to me to be trapped still, and forever, in this drugged state, in a sense petrified in it.
 
-注: 提线木偶，机器人，没有了感情，没有了人性，只剩下动物性
-
+Note: I was always confused about some people's conduct. To murder, to kill, to slaugter, to enslave/be enslaved, all these, I was so bewildered, HOW! HOW can all these things happen? I tried hard to make sense of wars, the holacaust, ISIS etc. until I came across this book. That's right, we are human beings, and we have humanity. However, I forgot that we are also animals, we can act like other kinds of anmimals without showing humanity. In prison, people had different roles, prisoners and perpetrators, and everybody got accustomed to it. I can never underestimate people's strong ability to get accustomed to miserable life. For example, Trevor Noah talked about aparteit in South Africa, and white people and black people simply accepted that. At that age, everythings made sense to people at that time though now it was stupid, weird, and racist. We are human, and we are animals first. 
 
 >Even then, when I was preoccupied by this general numbness, and by the fact that it had taken hold not only of the perpetrators and victims, but of all of us, judges and lay members of the court, prosecutors and recorders, who had to deal with these events now; when I likened perpetrators, victims, the dead, the living, survivors, and their descendants to each other, I didn’t feel good about it and I still don’t.
 Can one see them all as linked in this way? When I began to make such comparisons in discussions, I always emphasized that the linkage was not meant to relativize the difference between being forced into the world of the death camps and entering it voluntarily, between enduring suffering and imposing it on others, and that this difference was of the greatest, most critical importance. But I met with shock and indignation when I said this not in reaction to the others’ objections, but before they had even had the chance to demur.
 
->What should our second generation have done, what should it do with the knowledge of the horrors of the extermination of the Jews? We should not believe we can comprehend the incomprehensible, we may not compare the incomparable, we may not inquire because to inquire is to make the horrors an object of discussion, even if the horrors themselves are not questioned, instead of accepting them as something in the face of which we can only fall silent in revulsion, shame, and guilt. Should we only fall silent in revulsion, shame, and guilt? To what purpose? It was not that I had lost my eagerness to explore and cast light on things which had filled the seminar, once the trial got under way. But that some few would be convicted and punished while we of the second generation were silenced by revulsion, shame, and guilt—was that all there was to it now?
+We never recognize the fact that we were so numb.
+
+>What should our second generation have done, what should it do with the knowledge of the horrors of the extermination of the Jews? We should not believe we can **comprehend the incomprehensible**, we may **not compare the incomparable**, we may **not inquire because to inquire is to make the horrors** an object of discussion, even if the horrors themselves are not questioned, instead of accepting them as something in the face of which we can only fall silent in revulsion, shame, and guilt. Should we only fall silent in revulsion, shame, and guilt? To what purpose? It was not that I had lost my eagerness to explore and cast light on things which had filled the seminar, once the trial got under way. But that some few would be convicted and punished while we of the second generation were silenced by revulsion, shame, and guilt—was that all there was to it now?
 
 >not driven her away did not change the fact that I had betrayed her. So I was still guilty. And if I was not guilty because one cannot be guilty of betraying a criminal, then I was guilty of having loved a criminal
 
@@ -40,4 +39,8 @@ Can one see them all as linked in this way? When I began to make such comparison
 
 >“Spring lets its blue banner flutter through the air again,” “Cloud shadows fly across the fields”—the poems were all full of delight in nature, and yearning for it, and the pictures showed woods bright with spring, meadows spangled with flowers, autumn foliage and single trees, a pasture by a stream, a cherry tree with ripe red cherries, an autumnal chestnut flamed in yellow and orange.
 
->Everything about her was matter-of-fact: her manner, her gestures, her dress. Her face was oddly ageless, the way faces look after being lifted.
+Note: How much Hanna is craved for nature. 
+
+
+Questions: How many people were illiterated at that time? Can this happen during WWII? 
+How do we assess Hanna's conduct?
