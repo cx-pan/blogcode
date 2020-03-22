@@ -6,7 +6,7 @@ tags: [reading]
 
 Trevor is sober. I feel how he feels. and I understand him. 
 
-## Identiy, race, culture
+## Identity, race, and culture
 >For a long time I didn't understand why so many black people had abandoned their indigenous faith for Christianity. But the more we went to church and the longer I sat in those pews the more I learned about how Christianity works: If you're Native American and you pray to the wolves, you're a savage. If you're African and you pray to your ancestors, you're a primitive. But when white people pray to a guy who turns water into wine, well, that's just common sense. 
 
 >To this day I hate secondhand cars. Almost everything that's ever gone wrong in my life I can trace back to a secondhand car. Secondhand cars made me get detention for being late for school. Secondhand cars left us hitchhiking on the side of the freeway. A secondhand car was also the reason my mom got married. 
@@ -53,7 +53,7 @@ Trevor is sober. I feel how he feels. and I understand him.
 
 >I'd go to funerals and I'd walk in and the bereaved would look up and see me and they'd stop crying. They'd start whispering. Then they'd wave and say, “Oh!” like they were more shocked by me walking in than by the death of their loved ones. I think people felt like the dead person was more important because a white person had come to the funeral. 
 
-## Languages who you are
+## Language empowerment
 
 >When I was growing up we used to get American TV shows rebroadcast on our stations: Doogie Howser, M. D. ; Murder, She Wrote; Rescue 911 with William Shatner. Most of them were dubbed into African languages. ALF was in Afrikaans. Transformers was in Sotho. But if you wanted to watch them in English, the original American audio would be simulcast on the radio. You could mute your TV and listen to that. Watching those shows, I realized that whenever black people were on-screen speaking in African languages, they felt familiar to me. They sounded like they were supposed to sound. Then I'd listen to them in simulcast on the radio, and they would all have black American accents. My perception of them changed. They didn't feel familiar. They felt like foreigners. 
 

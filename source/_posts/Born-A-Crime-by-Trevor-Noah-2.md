@@ -3,7 +3,7 @@ title: Born A Crime by Trevor Noah (2)
 date: 2020-03-23 00:02:46
 tags:
 ---
-## Funny stuff
+## For a laugh
 
 >“What's going on?” my mom said. 
 “Oh, Nombuyiselo,” she said. “Trevor is so naughty. He's the naughtiest child I've ever come across in my life. ”
