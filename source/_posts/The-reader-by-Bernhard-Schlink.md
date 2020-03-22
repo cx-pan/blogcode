@@ -1,10 +1,9 @@
 ---
-title: Reading Digest
+title: The Reader by Bernhard Schlink 
 date: 2020-03-03 21:40:23
 tags: [reading]
 ---
-# Reading Digest
-## "The Reader" Bernhard Schlink 
+## The Reader by Bernhard Schlink 
 
 > She had grown up in a German community in Rumania, then come to Berlin at the age of sixteen, taken a job at the Siemens factory, and ended up in the army at twenty-one. Since the end of the war, she had done all manner of jobs to get by. She had been a streetcar conductor for several years...She had no family. She was thirty-six.
 
