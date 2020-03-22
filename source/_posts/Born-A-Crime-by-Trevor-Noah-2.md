@@ -8,14 +8,14 @@ tags:
 >“What's going on?” my mom said. 
 “Oh, Nombuyiselo,” she said. “Trevor is so naughty. He's the naughtiest child I've ever come across in my life. ”
 “Then you should hit him. ”
-“I can't hit him. ” <br/>
+“I can't hit him. ”
 “Why not?” 
-“Because I don't know how to hit a white child,” she said. “A black child, I understand. A black child, you hit them and they stay black. Trevor, when you hit him he turns blue and green and yellow and red. I've never seen those colors before. I'm scared I'm going to break him. I don't want to kill a white person. I'm so afraid. I'm not going to touch him. ” <br/>
+“Because I don't know how to hit a white child,” she said. “A black child, I understand. A black child, you hit them and they stay black. Trevor, when you hit him he turns blue and green and yellow and red. I've never seen those colors before. I'm scared I'm going to break him. I don't want to kill a white person. I'm so afraid. I'm not going to touch him. ”
 
 >For some reason the streets in Eden Park were named after cars: Jaguar Street. Ferrari Street. Honda Street. ...It was like living in a white neighborhood with all the streets named after varietals of fine wine. 
 
 >All the other kids at school got brands, Nike and Adidas. I never got brands. One time I asked my mom for Adidas sneakers. She came home with some knockoff brand, Abidas. 
-“Mom, these are fake,” I said. “I don't see the difference. ”<br/>
+“Mom, these are fake,” I said. “I don't see the difference. ”
 “Look at the logo. There are four stripes instead of three. ”
 “Lucky you,” she said. “You got one extra. ”
 
