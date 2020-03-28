@@ -1,7 +1,7 @@
 ---
 title: Born A Crime by Trevor Noah (2)
 date: 2020-03-23 00:02:46
-tags:
+tags: [reading]
 ---
 ## For a laugh
 

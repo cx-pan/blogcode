@@ -1,10 +1,10 @@
 ---
 title: 1984 by George Orwell
 date: 2020-03-28 14:55:10
-tags:
+tags: [reading]
 ---
 
-In nearly all the dynasties, whoever ruled the country modified the previous dynasty and their own dynasty. well, this is how history is written. For histrian, the job to identify what is relatively true and what is relatively wrong is challenging. We try to have history in a relatively objective view.
+In nearly all the dynasties, whoever ruled the country modified the previous dynasty and their own dynasty. well, this is how history is written. For historian, the job to identify what is relatively true and what is relatively wrong is challenging. We try to have history in a relatively objective view.
 
 When you trust a country, then you trust what the country says. When you don't, not matter what the country says is wrong. This is how double-standards and biased are formed. Bias will always exist, and haters are gonna hate. That's it. Don't take it too seriously.
 
@@ -55,7 +55,6 @@ My thoughts: to create and rectify the past that is worse than the present, to g
 >The real power, the power we have to fight for night and day, is not power over things, but over men.
 
 >It will be a world of terror as much as a world of triumph. … Goldstein and his heresies will live for ever.
-
 
 
 
