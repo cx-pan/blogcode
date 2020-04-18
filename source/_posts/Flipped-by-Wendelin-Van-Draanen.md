@@ -14,6 +14,8 @@ tags: [reading]
 
 > To be held above the earth and brushed by the wind, it's like you heart has been kissed by beauty. --about the sycamore tree
 
+书名 怦然心动 未免有点误人子弟。怦然心动只不过说明了最开始Julie的感觉，但英文名Flipped（翻转）一词总结了书的两条主线：Julie如何从喜欢Bryce反转成不喜欢，而Bryce又如何从讨厌Julie变成喜欢。这是两个孩子寻找自我认识自我的过程。长久的爱情是看中一个人的外貌，才华，人品，性格，三观，生活习惯等，只看外貌往往到头来会后悔。
+
 whole less than the part, 若给颜值，才华，人品，性格等每一项打分，有人单项得分很高，却可能严重偏科，导致总体平均分低。
 
 学生时代，喜欢一个人可能是这个人帅气的脸庞，娟秀的字，修长的手指，擅长打篮球，但是随着年龄增长，曾经可以因为一个人白皙修长手指就心动的感觉早已消逝，青春时代的爱情很简单，但我更喜欢成熟的爱情。对啊，这种成熟也表现于能够看到一个人的全部。
