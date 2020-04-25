@@ -4,25 +4,25 @@ date: 2020-04-25 15:16:00
 tags: [reading]
 ---
 
-- [1.读书的感悟](#1)
-- [2.正文笔记](#2)
+ [1.读书的感悟](#1) <br>
+ [2.正文笔记](#2)
 
-**<font color=#0784BA> <h1 id="1"> 1. 读书感悟 </h1></font>**
+**<font color=#E2A13F> <h1 id="1"> 1. 读书感悟 </h1></font>**
 
-## **关于写作**
+## <font color=#B5C266>**关于写作** </font>
 
 书写记录是厘清思路和想法的最好方式。不管最后放在博客，网站，还是公众号上，首先writing最重要的是对自己的成长与锻炼，分享交流居其次。
 
 一旦有任何的想法，都要尽量记录下来。
 
-## **关于读书，找书**
+## <font color=#B5C266>**关于读书，找书**</font>
 读书前，要明白作者的生平与经历。比如罗翔老师不喜欢卢梭，不喜欢他写的书，因为卢梭只爱抽象的人类，却把自己通奸生的5个孩子全部送去孤儿院，他说他忙着爱人类。我非常同意罗翔老师说的，真正的爱是具象的而不是抽象的。比如我喜欢《小王子》但是Regula不喜欢，她说作者本人的人品有很严重的缺陷。比如Mill的《On Liberty》为什么受到追捧，甚至进入《如何阅读一本书》的书单里，而Stephen的《Liberty·Equality·Fraternity》少有人阅读。Stephen曾经是Mill的追随者，但后来学法律，成为律师后，逐渐明白《On Liberty》里的种种缺陷。作为律师的罗翔老师，推荐的也是《Liberty·Equality·Fraternity》而非《On Liberty》。而Mill在《On Liberty》提到一个人私生活混乱并不影响其他人，别人没有指手画脚的权利，后来看他人生经历，他和一个有夫之妇的关系暧昧不清，在那位女人丈夫去世后，他和那个女人结了婚。听起来，书里讲的观点有可能是根据自己自身经历出发的。
 
 关于推荐书目，要看谁推荐书，比如企业家，文学教授，慈善家，普通学生等，大家喜欢的书往往是有共鸣的书，所以可能与自己人生经历有非常相似的地方的书或者一些观点对自己非常有启发的书。
 
 读书时要认真读序言，或者读完后重读序言。
 
-## **关于本书**
+## <font color=#B5C266>**关于本书**</font>
 读的是中文版，冯克利，杨日鹏译。也找了英文电子书一起对照着看，英文电子书pdf版本是扫描图，非常模糊，而且长难句很多比较难，没法看下去多少。摘抄了一些，帮助自己学习英语，长难句虽难，但还是要逼着去多理解些，不能就此放弃在自己专业里的提升。
 看这本书主要有两个原因：
 
@@ -33,7 +33,7 @@ tags: [reading]
 感受：
 整体感觉书，所谓政治哲学书，我第一次接触，中译英，比较晦涩难懂。几次想放下，换其他书看，但是我一想，现在放下，意味着以后都可能不会再拿起这本书看了。坚持看下去吧，这本书还不便宜，切不能浪费。
 
-**<font color=#0784BA><h1 id='2'> 2. 正文笔记 </h1></font>**
+**<font color=#E2A13F><h1 id='2'> 2. 正文笔记 </h1></font>**
 
 过去对保守主义有许多误解，总觉得保守主义是守旧，不肯革新，不与时俱进。但实际上，保守主义是一种现代思想，守住文化中的精华，以史为鉴，支持变化的挂念和推动变化的技术手段。它维护一种稳定的社会秩序。
 
@@ -60,7 +60,7 @@ tags: [reading]
 
 对于不懂的东西，妄议。
 
-### **第二章：论思想与辩论自由 The liberty of thought and discussion**
+### <font color=#B5C266>**第二章：论思想与辩论自由 The liberty of thought and discussion**</font>
 
 > 赞同思想和言论无限自由的其他三条论证分别是：一、受到压制的意见或许是部分正确的，只有通过讨论，才能使这一部分真理显现出来。二、正确的意见除非经过激烈而真诚的辩论，不然便无法让人相信它是正确的。三、除非经过讨论，否则它会被人们以墨守成规的方式持有。
 The three remaining arguments in favour of unlimited liberty of thought and discussion are: (1) That the silenced opinion may be partially true and that this partial truth can be brought out by discussion only. (2) That a true opinion when established is not believed to be true unless it is vigorously and earnestly contested. (3) That it comes to be held in a dead conventional way unless it is discussed. 
@@ -95,7 +95,7 @@ The notorious result of unlimited freedom of thought and discussion is to produc
 
 > 各种教义和政体之间存在着冲突，而且必定存在冲突，就像各民族、各阶级之间只要利益不一样，就必定会有冲突。
 
-### **第三章：论世俗权力和宗教权利的区分 On the distinction between the temporal and spiritual power**
+### <font color=#B5C266>**第三章：论世俗权力和宗教权利的区分 On the distinction between the temporal and spiritual power**</font>
 
 拿西藏作为例子不难知道，冲突的来源是争夺谁是合法统治者，是政府还是寺庙
 > 宗教权利（the spiritual power）与世俗权力（and temporal power）的区分，不在于它们统治着不同的领域，而在于它们采用不同的统治手段。differ not in the province which they rule, but in the sanctions by which they rule it.
@@ -103,7 +103,7 @@ The notorious result of unlimited freedom of thought and discussion is to produc
 > 要么教会成为世界的统治者，国家依靠并臣服于教会，要么国家成为统治者，宗教则按国家的法律订立契约，成为自愿形成的社会团体。换句话说，如果两种权利中的一方可以划定自己的界限，那么这两种权力就不可能是相互独立的。The result of this will be either that the Church will be the ruler of the world, and the State dependent on and subordinate to it, or that the State will be the ruler and the Church a voluntary association bound together by contracts dependent upon the laws of the State. In other words, the powers cannot be independent if either of them is to define its own limits.
 
 
-### **第四章：自由学说在道德中的应用 The doctrine of liberty in its application to morals**
+### <font color=#B5C266>**第四章：自由学说在道德中的应用 The doctrine of liberty in its application to morals**</font>
 
 是的啊，没有人是一座孤岛。我们的言行观点多少会给别人造成影响。明星，教授，这些相对有更多影响力的人，享受了一定的名誉和待遇，就有责任作出应有的榜样。对于吸毒，骄奢淫逸的明星，国家严格控制曝光度，我认为做得非常好。
 > 一个简单的事实是，对个人而言除了同胞关系之外，与他没有任何确定关系的千百万人，不但他们的行为，而且他们的思想、感觉和观点，都与他有着深刻的利害关系。一位大作家在思考中犯下错误，会误导他未曾谋面的无数人。我们都是彼此的组成部分这个贴切的比喻，不过是对事实的描述而已。如果一个人被孤零零地留在世上，他就不再是人了，就像脱离身体的手不再是手一样。It is surely a simple matter of fact that every human creature **is deeply interested**(利害关系) not only in the conduct, but in the thoughts, feelings, and opinions of millions of persons who stand in on other assignable relation to him than that of being his fell-creatures. A great writer who makes a mistake in his speculations may mislead multitudes whom he has never seen. .. A man would no more be a man if he was alone in the world than a hand would be a hand without the rest of the body.
@@ -127,7 +127,7 @@ The notorious result of unlimited freedom of thought and discussion is to produc
 
 >在实践中，自由常识的流行使普通人头脑产生了一种抗拒服从他人的强烈假定，因为自然反弹的作用，又诱使另一类人在观念上服从以强烈的语调和自信要求他们服从的第一个人。它使公认有益的古老的纪律形式分崩离析，却根本没有缔造许多新的形式。Practically, the effect of the popularity of the commonplaces about liberty has been to raise in the minds of ordinary people a strong presumption against obeying anybody, and by a natural rebound to induce minds of another class to obey the first person who claims their obedience with sufficient emphasis and self-confidence. It has shattered to pieces most of the old forms in which discipline was a recognized and admitted good, and certainly it has not produced many new ones.
 
-### **第五章：平等 Equality**
+### <font color=#B5C266>**第五章：平等 Equality**</font>
 
 承认并尊重两性的差异是推进男女相对平等的前提。比如幼儿时期，我们首先明白男女的性别差异会造成爱好差异，同时不强调男孩应该玩什么玩具女孩应该玩什么。但给他们提供相同选择，在最后该尊重他们的选择，哪怕最后实际的情况是女生确实偏向于玩娃娃，而男生偏向于玩玩具车，我们首先承认性别差异带来的各种差异，尊重才是促进平等的前提。矫枉过正的结果是创造更多的不平等，而我们能做的是，给男女提供更多的选择。
 我们在推进男女平权的时候，应该注意不要贬低男性。lift up women，and not lower down men.
@@ -142,7 +142,7 @@ The notorious result of unlimited freedom of thought and discussion is to produc
 
 >除非事情的重要性在最低能的人看来也一目了然，不然什么事情也做不成；凡是能让这些低能的人觉得显而易见的事，迟早都会做成，而在那些视野宽广的人看来它显然是不应该做的，一旦做成，再想废除它，就成了天下最难办的事情。Nothing can be done at all till the importance of doing its has been made obvious to the very lowest capacity; and whatever can be made obvious to such capacities is sure in course of time to be done, although it may be obvious to people capable of taking a wider view that it ought not to be done. When once done, it is the hardest thing in the world to get it undone.
 
-### **第六章：博爱 Fraternity**
+### <font color=#B5C266>**第六章：博爱 Fraternity**</font>
 
 > 我在读卢梭的《忏悔录》时发现，几乎很少有文学作品能像他对人类表达的爱那样让人恶心。I know hardly anything in literature so nauseous as Rousseau's expressions of love for mankind when read in the light of his confessions. 
 
