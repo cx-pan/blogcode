@@ -4,7 +4,7 @@ date: 2020-03-22 23:39:05
 tags: [reading]
 ---
 
-Trevor is sober. I feel how he feels. and I understand him. 
+Trevor is sober. I feel how he feels. and he understands me. 
 
 ## Identity, race, and culture
 >For a long time I didn't understand why so many black people had abandoned their indigenous faith for Christianity. But the more we went to church and the longer I sat in those pews the more I learned about how Christianity works: If you're Native American and you pray to the wolves, you're a savage. If you're African and you pray to your ancestors, you're a primitive. But when white people pray to a guy who turns water into wine, well, that's just common sense. 

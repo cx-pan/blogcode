@@ -8,8 +8,6 @@ tags: [reading]
 >如果将虚荣的观点、谄媚的愿望、错误的评价以及虚无的想象等诸如此类的东西都从人们的思想中抽离，那么，很多人将沦为乏味的可怜虫，内心除了郁郁寡欢和无所知从之外空洞无物，甚至自我厌倦，自我嫌弃。
 If there were taken out of men's mind vain opinions, flattering hopes, false valuations, imaginations as one would, and the like, but it would leave the minds of a number of men poor shrunken things, full of melancholy and indispositions, and unpleasing to themselves.
 
-
-
 讽刺的意味，有多少人自以为是地站在各种制高点上指责其他人。哪怕是现在的我，也是隔岸观火看着其他国家如何对待疫情，毫无同情心可言。
 >站在岸上遥看颠簸于海上的船是一件乐事；站在城堡的窗口观看脚下激烈的战争也是一件乐事，因为自己可以远离险境；但是没有任何乐事能与攀登上真理的制高点，在空气清新宁静、无人能及的高峰上俯视谷底世人们的种种错误、流离、迷乱和疾风劲雨相媲美的了。
 It is a pleasure to stand upon the shore, and to see ships tost upon the sea: a pleasure to stand in the window of a castle, and to see a battle and the adventures thereof below: but no pleasure is comparable to the standing upon the vantage ground of truth (a hill not to be commanded, and where the air is always clear and serene), and to see the errors, and wanderings, and mists, and tempests, in the vale below: so always that this prospect be with pity, and not with swelling or pride.
