@@ -1,7 +1,8 @@
 ---
 title: 1984 by George Orwell
 date: 2020-03-28 14:55:10
-tags: [reading]
+tags: [西方文学]
+categories: [阅读]
 ---
 
 In nearly all the dynasties, whoever ruled the country modified the previous dynasty and their own dynasty. well, this is how history is written. For historian, the job to identify what is relatively true and what is relatively wrong is challenging. We try to have history in a relatively objective view.

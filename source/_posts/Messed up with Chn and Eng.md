@@ -1,7 +1,8 @@
 ---
 title: Messed up with Chinese and English languages
 date: 2020-02-23 23:22:12
-tags: [Language]
+tags: [语言学习]
+categories: [思考的日常]
 ---
 
 _or let say how I need to combine two languages to shape a new "me". I need English as part of my identity._

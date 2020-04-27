@@ -1,7 +1,8 @@
 ---
 title: Flipped by Wendelin Van Draanen
 date: 2020-03-28 19:09:56
-tags: [reading]
+tags: [西方文学]
+categories: [阅读]
 ---
 1+1 > or < 2
 >I told him about his eyes and his hair and the way his cheeks blush, but I don't think I explained it very well because when I was done Dad shook his head and told me in soft, heavy words that I needed to start looking at the whole landscape. ..."Proper lighting is everything."

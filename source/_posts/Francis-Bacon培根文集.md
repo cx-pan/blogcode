@@ -1,7 +1,8 @@
 ---
 title: Francis Bacon培根文集
 date: 2020-03-30 21:38:51
-tags: [reading]
+tags: [西方文学]
+categories: [阅读]
 ---
 ## 1．论真理
 

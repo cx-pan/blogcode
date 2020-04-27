@@ -1,7 +1,8 @@
 ---
 title: Born A Crime by Trevor Noah
 date: 2020-03-22 23:39:05
-tags: [reading]
+tags: [非洲文学]
+categories: [阅读]
 ---
 The best book I read in 2018!! 
 Trevor is sober. I feel how he feels. He can see through everything in his life.

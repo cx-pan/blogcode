@@ -1,7 +1,8 @@
 ---
 title: Frankestein by Mary Shelley
 date: 2020-03-28 14:28:01
-tags: [reading]
+tags: [西方文学]
+categories: [阅读]
 ---
 
 There are two main protagonists: Frankenstein, the creature, so called monster, fiend, daemon, created by Victor Frankenstein，a scientist. Monster Frankenstein doesn’t have a name, therefore, his name was taken after his creator. 

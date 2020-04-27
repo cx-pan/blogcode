@@ -1,7 +1,8 @@
 ---
 title: 自由·平等·博爱 by James Stephen
 date: 2020-04-25 15:16:00
-tags: [reading]
+tags: [西方文学]
+categories: [阅读]
 ---
 
  - [1.读书的感悟](#1)

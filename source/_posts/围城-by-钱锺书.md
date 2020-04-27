@@ -1,7 +1,8 @@
 ---
 title: 围城 by 钱锺书
 date: 2020-04-19 01:37:10
-tags: [reading,chinese literature]
+tags: [中国文学]
+categories: [阅读]
 ---
 
 - [道理](#1)
