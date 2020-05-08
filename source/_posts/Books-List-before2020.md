@@ -14,13 +14,14 @@ categories: [阅读]
 **超级喜欢，5星**
 - **《斯蒂芬·茨威格小说全集》**，张玉书译，包括《象棋的故事》，《火烧火燎的秘密》, 《心灵的焦灼》，《一个陌生女人的来信》等
 - **《昨日的世界》**，斯蒂芬·茨威格，*自传*
+- **《人类群星闪耀时》**，斯蒂芬·茨威格
 - **《Born a Crime》**, Trevor Noah
 - 《复活》，列夫·托尔斯泰
 - **《围城》**，钱锺书
 - 《欧亨利短篇小说》，*（一直很喜欢欧亨利）*
 - 《Frankenstein》, Mary Shelly
 - 《1984》 & 《Animal Farm》, George Orwell
-- 《The Reader》, Bernhard Schlink
+- **《The Reader》**, Bernhard Schlink
 - 《生死场》，萧红 *（忘了好多了，应该重新读一遍）*
 - **《红处方》**，毕淑敏
 - **《活着》、《第七天》、《兄弟》**、《许三观卖血记》，余华
@@ -31,10 +32,14 @@ categories: [阅读]
 - 《卡拉马佐夫兄弟》，陀思妥耶夫斯基 （*正在看，回头看看是不是五星*）
 - 《狼图腾》，姜戎 （*豆瓣评论不好，可以重新看看，不太记得里面的故事了，但是我是喜欢这个故事的*）
 - 《追风筝的人》，卡勒德·胡赛尼 
-- 《The Great Gastby》, F. Scott Fitzgerald (*好看但是不记得讲啥了要重新看*)
+- 《The Great Gastby》, F. Scott Fitzgerald 
 - 《The Call of the Wild》, Jack London (*重新看*)
 - **《穿越百年中东》**，郭建龙，*中信出版社就很喜欢出这类的书，这本书故事性很强，我觉得入门了解中东现状和历史都有帮助*。
 - 《城南旧事》，林海音
+- **《呼兰河传》**，萧红（想知道晚清和民国过渡时期旧中国人的生活状态吗？）
+
+
+
 **喜欢，4星**
 - 《我们仨》，杨绛
 - 《Memoir of a Geisha》, Arthur Golden （*日本艺伎的故事，很好看的故事*）
@@ -61,6 +66,7 @@ categories: [阅读]
 
 
 
+
 **一般般的，3星**
 - 《少年的你》，（*书很普通，电影应该更好看*）
 - 《长安十二时辰》，马伯庸 （*喜欢是喜欢，但古装小说不是我的菜，而且最后烂尾了。*）
@@ -77,7 +83,6 @@ categories: [阅读]
 - 《Marva Collins’ Way》，Marva Collins
 - **《Ultralearning》**, Scott Young
 - **《Atomic Habits》**,  James Clear
-- 《Deep Work》, Cal Newport (*要开始看的*)
 - 《给教师的100条建议》，苏霍姆林斯基
 
 
@@ -93,21 +98,21 @@ categories: [阅读]
 - 《道德经》，老子
 
 **<font color=#B5C266> <h1 id="4"> 搁置or放弃 Quit </h1></font>**
-- 《都柏林人》，(*这本英文版的一直没法通读，觉得太难了，应该找时间重新读*)
-- <巨人三部曲》，Ken Foliet, (*很长很啰嗦看不下去*)
-- 《The Diary of a Bookseller》, (*很无聊*)
+- 《都柏林人》，(*这本英文版的一直没法通读，觉得太难了*)
+- 《巨人三部曲》，Ken Foliet, (*很长很啰嗦看不下去评分虚高*)
+- 《The Diary of a Bookseller》, (*boring*)
 - 《Charlie and the Chocolate Factory》, *就是没看完了然后不想看了*
 - 《富爸爸穷爸爸》，罗伯特·清崎、莱希特，（*我咋就不是很喜欢这种鸡汤文呢*）
-- 《Paper Town》, John Green, *无聊*
+- 《Paper Town》, John Green
 - 《All Creatures Great and Small》, James Heriot, (*朋友推荐，我看了些，最后还是没能坚持下来，不知道为啥*)
-- 《Sophie's World》, Jostein Gaarder, *没看完，看不懂的哲学书，哪怕是入门也看不懂太惨了。*
+- 《Sophie's World》, Jostein Gaarder, *没看完，看不懂的哲学书，哪怕是入门也看不懂，我太惨了。*
 - 《Pinochio》, Carlo Collodi, (*我咋就是不太喜欢儿童文学呢。*)
 - 《Momo》, (*看的德语版太难了，英语版应该重新读。*)
 - 《查令十字街84号》，(*和书店日记一样，还是不喜欢这种文体。*)
-- 《牧羊少年奇幻之旅》，(*我觉得挺无聊的，可能是我没看懂。*)
+- 《牧羊少年奇幻之旅》，(*挺无聊的，可能是我没看懂。*)
 - 《娱乐至死》，(*我咋没看完呢？*)
 
 **最爱的作家：Stefan Zweig
 最爱的明星：Trevor Noah**
 
-总结，以前好多书都没有好好读，读完没有好好写读书心得，不好，不好。以后无论如何都要好好做记录，把自己的知识体系建立起来。
+总结，以后无论如何都要好好做记录，把自己的知识体系建立起来。
