@@ -5,7 +5,7 @@ tags: [西方文学]
 categories: [阅读]
 ---
 
-In nearly all the dynasties, whoever ruled the country modified the previous dynasty and their own dynasty. well, this is how history is written. For historian, the job to identify what is relatively true and what is relatively wrong is challenging. We try to have history in a relatively objective view.
+In nearly all the dynasties, whoever ruled the country modified the history of previous and their own dynasty at their will. This is how history is generally written. For historian, the job to identify what is relatively true and vice versa is challenging. 
 
 When you trust a country, then you trust what the country says. When you don't, not matter what the country says is wrong. This is how double-standards and biased are formed. Bias will always exist, and haters are gonna hate. That's it. Don't take it too seriously.
 
