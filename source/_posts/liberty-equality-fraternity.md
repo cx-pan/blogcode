@@ -36,7 +36,7 @@ categories: [阅读]
 
 **<font color=#89B374><h1 id='2'> 2. 正文笔记 </h1></font>**
 
-过去对保守主义有许多误解，总觉得保守主义是守旧，不肯革新，不与时俱进。但实际上，保守主义是一种现代思想，守住文化中的精华，以史为鉴，支持变化的挂念和推动变化的技术手段。它维护一种稳定的社会秩序。
+过去对保守主义有许多误解，总觉得保守主义是守旧，不肯革新，不与时俱进。但实际上，保守主义是一种现代思想，守住文化中的精华，以史为鉴，支持变化的挂念和推动变化的技术手段。它维护一种稳定的社会秩序。博爱与自由不相容，因为自由是自私的，而博爱是反自私的。
 
 > Warner：“自由是有秩序的自由，平等是法律之下的平等，而博爱则是一种与自由社会不相容的价值。”
 
@@ -158,5 +158,5 @@ The notorious result of unlimited freedom of thought and discussion is to produc
 >不论赋予这些字眼多么重要的意义，它们都不适合成为宗教信条，它们所指的事务本身不是目的，把它们一并使用时，不管多么模糊，都不代表一个理性人应以热情和自我奉献去对待的任何社会状态。Whatever signification be attached to them, these words are ill-adapted to be the creed of a religion, that the things which they denote are not ends in themselves, and that when used collectively the words do not typify, however vaguely, any state of society which a reasonable man ought to regard with enthusiasm or self-devotion. 
 
 
-
+后记：也许我们最后追求的不是平等，自由，博爱，而是尊重与正义。在尊重下，自由能够被恰当限制又能被恰当践行。而博爱，我们也许只寄托希望于那么几个人的博爱，这些人是真正为世界、为全人类社会做出伟大贡献的人，但博爱不可能成为普世价值，人的善恶复杂程度过于复杂，有善良，就必定会有邪恶，有高尚一定会有低俗。有阴必有阳。两极相生，相辅相成，道家早已说明了自然界、社会、人性的规律与道理。
 
