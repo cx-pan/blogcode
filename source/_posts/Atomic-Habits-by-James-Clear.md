@@ -3,76 +3,66 @@ title: Atomic Habits by James Clear
 date: 2020-06-14 03:17:37
 tags:
 ---
-书本首先整体介绍了微习惯的爆炸性力量，以及习惯对个人身份的塑造，总体介绍了养成习惯的4个laws，分别是cue, craving, response, reward.（暗示，渴望，反应，奖励），接着根据这4个方面展开介绍。
+书本首先整体介绍了微习惯的爆炸性力量，以及习惯对个人身份的塑造，总体介绍了养成习惯的4个laws，分别是cue, craving, response, reward（暗示，渴望，反应，奖励），接着根据这4个方面展开介绍。
 
-**The Fundamentals - The 1st law - the 2nd - the 3rd - the 4th - Advanced Tatics - Appendix.**
+# 目录
+**1 The Fundamentals - 2 The 1st law - 3 the 2nd - 4 the 3rd - 5 the 4th - 6 Advanced Tatics - Appendix.**
 
-Why Tiny Changes Make a Big Difference
-1 The Surprising Power of Atomic Habits
-2 How Your Habits Shape Your Identity (and Vice Versa)
-3 How to Build Better Habits in 4 Simple Steps
+4 Laws | How to Create a Good Habit | How to Break a Bad Habit
+-------| --------- | -----------------
+The 1st law (**Cue**): | Make it obvious. | ~ invisible.
+The 2nd law (**Craving**): | Make it attractive. | ~ unattractive.
+The 3rd law (**Response**): | Make it easy. | ~ difficult.
+The 4th law (**Reward**): | Make it satisfying. | ~ unsatisfying.
 
-**How to Create a Good Habit**
-The 1st law (Cue): Make it obvious.
-The 2nd law (Craving): Make it attractive.
-The 3rd law (Response): Make it easy.
-The 4th law (Reward): Make it satisfying.
+***附上详细方法表格：（tbc）***
 
-
-**How to Break a Bad Habit**
-Inversion of the 1st law (Cue): Make it invisible.
-Inversion of the 2nd law (Craving): Make it unattractive.
-Inversion of the 3rd law (Response): Make it difficult.
-Inversion of the 4th law (Reward): Make it unsatisfying.
 
 # 1 The fundamentals
 ## 1.1 The Surprising Power of Atomic Habits
 量变到质变的过程，会有一个突破点
 Breakthrough moments are often the result of many previous actions, which build up the potential required to unleash a major change.
 
-所以自己不要被这种思维蒙蔽，不可只看到结果，还需要看看过程积累。When you finally break through the Plateau of Latent Potential, people will call it an overnight success. The outside world only sees the most dramatic event rather than all that preceded it.
+人们惯性思维使他们认为一个人的成功是一夜之间的变化，却无法看到背后的耕耘与汗水。When you finally break through the Plateau of Latent Potential, people will call it an overnight success. The outside world only sees the most dramatic event rather than all that preceded it.
 
 FORGET ABOUT GOALS, FOCUS ON SYSTEMS INSTEAD
 作者并不提倡这个做法
 
-Prevailing wisdom claims that the best way to achieve what we want in life—getting into better shape, building a successful business, relaxing more and worrying less, spending more time with friends and family—is to set specific, actionable goals.
+True long-term thinking is goal-less thinking. It’s not about any single accomplishment. It is about the cycle of endless refinement and continuous improvement. Ultimately, it is your commitment to the process that will determine your progress.是的，关注过程，弱化目标带来的影响。
 
-If you’re a musician, your goal might be to play a new piece. Your system is how often you practice, how you break down and tackle difficult measures, and your method for receiving feedback from your instructor.
-Goals are good for setting a direction, but systems are best for making progress.
-
-True long-term thinking is goal-less thinking. It’s not about any single accomplishment. It is about the cycle of endless refinement and continuous improvement. Ultimately, it is your commitment to the process that will determine your progress.是的，关注过程，弱化目标带来的影响
-
-Chapter Summary
+**Chapter Summary** 别再设置目标了！
 Habits are the compound interest of self-improvement. Getting 1 percent better every day counts for a lot in the long-run. Habits are a double-edged sword. They can work for you or against you, which is why understanding the details is essential.
 
 
 Small changes often appear to make no difference until you cross a critical threshold. The most powerful outcomes of any compounding process are delayed. You need to be patient.An atomic habit is a little habit that is part of a larger system. Just as atoms are the building blocks of molecules, atomic habits are the building blocks of remarkable results.
 
-If you want better results, then forget about setting goals. Focus on your system instead.You do not rise to the level of your goals. You fall to the level of your systems.
+说得好！**If you want better results, then forget about setting goals**. Focus on your system instead.You do not rise to the level of your goals. You fall to the level of your systems.
 
 ## 1.2 How Your Habits Shape Your Identity (and Vice Versa)
-哎，有许多事情，我都是一时兴起在做，包括法语，日语，写博客等occasional burst of motivation
+哎，有许多事情，我都是一时兴起在做，包括法语，日语，写博客等，occasional burst of motivation
 
-Outcomes are about what you get. Processes are about what you do. Identity is about what you believe.
+outcome, process, identiy 三个的定义：
+Outcomes are about what you get. 
+Processes are about what you do. 
+Identity is about what you believe.
 
-True behavior change is identity change.
-
-The goal is not to read a book, the goal is to become a reader.
-
-The goal is not to run a marathon, the goal is to become a runner.The goal is not to learn an instrument, the goal is to become a musician.
+**True behavior change is identity change.**
+- The goal is not to read a book, the goal is to become a reader.
+- The goal is not to run a marathon, the goal is to become a runner.
+- The goal is not to learn an instrument, the goal is to become a musician.
 
 Good habits can make rational sense, but if they conflict with your identity, you will fail to put them into action
  
 Your identity is literally your “repeated beingness.”
-Each time you write a page, you are a writer.
-Each time you practice the violin, you are a musician.Each time you start a workout, you are an athlete.
-Each time you encourage your employees, you are a leader.
+- Each time you write a page, you are a writer.
+- Each time you practice the violin, you are a musician.Each time you start a workout, you are an athlete.
+- Each time you encourage your employees, you are a leader.
 
 Each habit not only gets results but also teaches you something far more important: to trust yourself. You start to believe you can actually accomplish these things.
 
- Chapter Summary
-There are three levels of change: outcome change, process change, and identity change.The most effective way to change your habits is to focus not on what you want to achieve, but on who you wish to become.
-Your identity emerges out of your habits. Every action is a vote for the type of person you wish to become.Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity.
+**Chapter Summary**
+There are three levels of change: *outcome change, process change, and identity change*. The most effective way to change your habits is to focus not on what you want to achieve, but on who you wish to become.
+Your identity emerges out of your habits. Every action is a vote for the type of person you wish to become. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity.
 
 The real reason habits matter is not because they can get you better results (although they can do that), but because they can change your beliefs about yourself.
 
@@ -84,14 +74,18 @@ Cravings are the second step, and they are the motivational force behind every h
 Every craving is linked to a desire to change your internal state.
 
 The response is the actual habit you perform, which can take the form of a thought or an action. Whether a response occurs depends on how motivated you are and how much friction is associated with the behavior.
+
 Rewards are the end goal of every habit.
 
 We chase rewards because they serve two purposes: (1) they satisfy us and (2) they teach us.
+
 We can split these four steps into two phases: the problem phase and the solution phase. The problem phase includes the cue and the craving, and it is when you realize that something needs to change. The solution phase includes the response and the reward, and it is when you take action and achieve the change you desire.
 
 **Chapter Summary**
-A habit is a behavior that has been repeated enough times to become automatic.The ultimate purpose of habits is to solve the problems of life with as little energy and effort as possible.
-Any habit can be broken down into a feedback loop that involves four steps: cue, craving, response, and reward.The Four Laws of Behavior Change are a simple set of rules we can use to build better habits. They are (1) make it obvious, (2) make it attractive, (3) make it easy, and (4) make it satisfying.
+- A habit is a behavior that has been repeated enough times to become automatic.- The ultimate purpose of habits is to solve the problems of life with as little energy and effort as possible.
+- Any habit can be broken down into a feedback loop that involves four steps: cue, craving, response, and reward.
+- The Four Laws of Behavior Change are a simple set of rules we can use to build better habits. 
+- They are (1) make it obvious, (2) make it attractive, (3) make it easy, and (4) make it satisfying.
 
 # 2 The 1st Law Make it Obvious
 ## 2.1 The man who didn't look right
