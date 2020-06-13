@@ -1,5 +1,5 @@
 ---
-title: Frankestein by Mary Shelley
+title: Frankenstein by Mary Shelley
 date: 2020-03-28 14:28:01
 tags: [西方文学]
 categories: [阅读]
