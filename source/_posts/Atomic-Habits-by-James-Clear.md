@@ -1,19 +1,32 @@
 ---
 title: Atomic Habits by James Clear
 date: 2020-06-14 03:17:37
-tags:
+tags: [西方文学, 心理学]
+categories: [阅读]
 ---
-书本首先整体介绍了微习惯的爆炸性力量，以及习惯对个人身份的塑造，总体介绍了养成习惯的4个laws，分别是cue, craving, response, reward（暗示，渴望，反应，奖励），接着根据这4个方面展开介绍。
+[Intro](#1) 
+[The Fundamentals](#2) 
+[1st Make it Obvious](#3) 
+[2nd Make it attractive](#4) 
+[3rd Make it Easy](#5) 
+[4th Make it Satisfying](#6)
+[Advanced Tatics](#7) 
+[Appendix](#8)
 
-# 目录
-**1 The Fundamentals - 2 The 1st law - 3 the 2nd - 4 the 3rd - 5 the 4th - 6 Advanced Tatics - Appendix.**
+<h1 id='1'> Intro </h1>
+这本书给我最大的启发是，我总以为在教学中，保持学生的内在的动力，才是持久的可持续性的学习动力，但实际上周围的环境，方法，人都会对自己的行为产生重要影响。我们的确要控制外在的环境，创造一个符合自己学习需求的环境。把学习或习惯的养成变得明显、诱人、简单、令人满足。所以最理想的还是把外在动力用好，最后通过习惯培养出一种内在动力。
 
-4 Laws | How to Create a Good Habit | How to Break a Bad Habit
+书本首先整体介绍了微习惯的爆炸性力量，以及习惯对个人身份的塑造的意义。接着总体介绍了养成习惯的4个laws，分别是cue, craving, response, reward（暗示，渴望，反应，奖励），最后对这4方面展开介绍。
+
+里面很多话都值得回味，可以用在教学工作方面，因此摘抄下来了。
+
+
+4 Laws | Create a Good Habit | Break a Bad Habit
 -------| --------- | -----------------
 The 1st law (**Cue**): | Make it obvious. | ~ invisible.
-The 2nd law (**Craving**): | Make it attractive. | ~ unattractive.
-The 3rd law (**Response**): | Make it easy. | ~ difficult.
-The 4th law (**Reward**): | Make it satisfying. | ~ unsatisfying.
+The 2nd law (**Craving**): | ~ attractive. | ~ unattractive.
+The 3rd law (**Response**): | ~ easy. | ~ difficult.
+The 4th law (**Reward**): | ~ satisfying. | ~ unsatisfying.
 
 ***附上详细方法表格：（tbc）***
 
@@ -26,7 +39,7 @@ Breakthrough moments are often the result of many previous actions, which build 
 人们惯性思维使他们认为一个人的成功是一夜之间的变化，却无法看到背后的耕耘与汗水。When you finally break through the Plateau of Latent Potential, people will call it an overnight success. The outside world only sees the most dramatic event rather than all that preceded it.
 
 FORGET ABOUT GOALS, FOCUS ON SYSTEMS INSTEAD
-作者并不提倡这个做法
+作者并不提倡设定目标的做法
 
 True long-term thinking is goal-less thinking. It’s not about any single accomplishment. It is about the cycle of endless refinement and continuous improvement. Ultimately, it is your commitment to the process that will determine your progress.是的，关注过程，弱化目标带来的影响。
 
@@ -34,7 +47,7 @@ True long-term thinking is goal-less thinking. It’s not about any single accom
 Habits are the compound interest of self-improvement. Getting 1 percent better every day counts for a lot in the long-run. Habits are a double-edged sword. They can work for you or against you, which is why understanding the details is essential.
 
 
-Small changes often appear to make no difference until you cross a critical threshold. The most powerful outcomes of any compounding process are delayed. You need to be patient.An atomic habit is a little habit that is part of a larger system. Just as atoms are the building blocks of molecules, atomic habits are the building blocks of remarkable results.
+Small changes often appear to make no difference until you cross a critical threshold. The most powerful outcomes of any compounding process are delayed. You need to be patient. An atomic habit is a little habit that is part of a larger system. Just as atoms are the building blocks of molecules, atomic habits are the building blocks of remarkable results.
 
 说得好！**If you want better results, then forget about setting goals**. Focus on your system instead.You do not rise to the level of your goals. You fall to the level of your systems.
 
@@ -46,7 +59,7 @@ Outcomes are about what you get.
 Processes are about what you do. 
 Identity is about what you believe.
 
-**True behavior change is identity change.**
+**True behavior change is identity change真正的行为变化是个人身份认同的变化**
 - The goal is not to read a book, the goal is to become a reader.
 - The goal is not to run a marathon, the goal is to become a runner.
 - The goal is not to learn an instrument, the goal is to become a musician.
@@ -61,28 +74,24 @@ Your identity is literally your “repeated beingness.”
 Each habit not only gets results but also teaches you something far more important: to trust yourself. You start to believe you can actually accomplish these things.
 
 **Chapter Summary**
-There are three levels of change: *outcome change, process change, and identity change*. The most effective way to change your habits is to focus not on what you want to achieve, but on who you wish to become.
-Your identity emerges out of your habits. Every action is a vote for the type of person you wish to become. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity.
-
-The real reason habits matter is not because they can get you better results (although they can do that), but because they can change your beliefs about yourself.
+- There are three levels of change: *outcome change, process change, and identity change*. The most effective way to change your habits is to focus not on what you want to achieve, but on who you wish to become.
+- Your identity emerges out of your habits. Every action is a vote for the type of person you wish to become. 
+- Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity.
+- The real reason habits matter is not because they can get you better results (although they can do that), but because they can change your beliefs about yourself.
 
 ## 1.3 How to Build Better Habits in 4 Simple Steps
-The cue triggers your brain to initiate a behavior. It is a bit of information that predicts a reward.
 
-Cravings are the second step, and they are the motivational force behind every habit. Without some level of motivation or desire—without craving a change—we have no reason to act.
-
-Every craving is linked to a desire to change your internal state.
+渴望是改变行为习惯的原因，是动力。Every craving is linked to a desire to change your internal state.
 
 The response is the actual habit you perform, which can take the form of a thought or an action. Whether a response occurs depends on how motivated you are and how much friction is associated with the behavior.
 
-Rewards are the end goal of every habit.
-
-We chase rewards because they serve two purposes: (1) they satisfy us and (2) they teach us.
-
-We can split these four steps into two phases: the problem phase and the solution phase. The problem phase includes the cue and the craving, and it is when you realize that something needs to change. The solution phase includes the response and the reward, and it is when you take action and achieve the change you desire.
+奖励是形成习惯的最终目标。它要么使我们满足，要么教会我们一些东西。
+前两个cue, craving是问题阶段
+后两个response, reward为解决阶段。
 
 **Chapter Summary**
-- A habit is a behavior that has been repeated enough times to become automatic.- The ultimate purpose of habits is to solve the problems of life with as little energy and effort as possible.
+- A habit is a behavior that has been repeated enough times to become automatic.
+- The ultimate purpose of habits is to solve the problems of life with as little energy and effort as possible.
 - Any habit can be broken down into a feedback loop that involves four steps: cue, craving, response, and reward.
 - The Four Laws of Behavior Change are a simple set of rules we can use to build better habits. 
 - They are (1) make it obvious, (2) make it attractive, (3) make it easy, and (4) make it satisfying.
@@ -105,11 +114,12 @@ Habits that reinforce your desired identity are usually good. Habits that confli
 ## 2.2 The best way to start a new habit
 an implementation intention, which is a plan you make beforehand about when and where to act. That is, how you intend to implement a particular habit.
 
-Many people think they lack motivation when what they really lack is clarity.
+Many people think they lack motivation when what they really lack is **clarity**.
 
 The simple way to apply this strategy to your habits is to fill out this sentence: 
 I will [BEHAVIOR] at [TIME] in [LOCATION].Meditation. I will meditate for one minute at 7 a.m. in my kitchen.
-**Studying.** I will study Spanish for twenty minutes at 6 p.m. in my bedroom.Exercise. I will exercise for one hour at 5 p.m. in my local gym.
+**Studying.** I will study Spanish for twenty minutes at 6 p.m. in my bedroom.
+**Exercise**. I will exercise for one hour at 5 p.m. in my local gym.
 **Marriage**. I will make my partner a cup of tea at 8 a.m. in the kitchen.
 
 Give your habits a time and a space to live in the world. The goal is to make the time and location so obvious that, with enough repetition, you get an urge to do the right thing at the right time, even if you can’t say why.
@@ -120,15 +130,18 @@ The habit stacking formula is:
 “After [CURRENT HABIT], I will [NEW HABIT].”
 
 **Meditation**. After I pour my cup of coffee each morning, I will meditate for one minute.
-**Exercise**. After I take off my work shoes, I will immediately change into my workout clothes.Gratitude. After I sit down to dinner, I will say one thing I’m grateful for that happened today.
-**Marriage**. After I get into bed at night, I will give my partner a kiss.Safety. After I put on my running shoes, I will text a friend or family member where I am running and how long it will take.
+**Exercise**. After I take off my work shoes, I will immediately change into my workout clothes.
+**Gratitude.** After I sit down to dinner, I will say one thing I’m grateful for that happened today.
+**Marriage**. After I get into bed at night, I will give my partner a kiss.
+**Safety.** After I put on my running shoes, I will text a friend or family member where I am running and how long it will take.
 
 ## 2.3 Motivation is overrated; environment often matters more
 Every habit is initiated by a cue, and we are more likely to notice cues that stand out.
 
 举例：
 - If you want to remember to take your medication each night, put your pill bottle directly next to the faucet on the bathroom counter.
-- If you want to practice guitar more frequently, place your guitar stand in the middle of the living room.If you want to remember to send more thank-you notes, keep a stack of stationery on your desk.
+- If you want to practice guitar more frequently, place your guitar stand in the middle of the living room.
+- If you want to remember to send more thank-you notes, keep a stack of stationery on your desk.
 - If you want to drink more water, fill up a few water bottles each morning and place them in common locations around the house.
 
 **THE CONTEXT IS THE CUE**
@@ -147,9 +160,9 @@ Whenever possible, avoid mixing the context of one habit with another. When you 
 
 You can use your phone for all sorts of tasks, which makes it a powerful device. But when you can use your phone to do nearly anything, it becomes hard to associate it with one task. You want to be productive, but you’re also conditioned to browse social media, check email, and play video games whenever you open your phone. It’s a mishmash of cues.
 
-If your space is limited, divide your room into activity zones: a chair for reading, a desk for writing, a table for eating. You can do the same with your digital spaces. I know a writer who uses his computer only for writing, his tablet only for reading, and his phone only for social media and texting. Every habit should have a home.
+If your space is limited, divide your room into activity zones: **a chair for reading, a desk for writing, a table for eating.** You can do the same with your digital spaces. I know a writer who uses his computer only for writing, his tablet only for reading, and his phone only for social media and texting. Every habit should have a home.
 
-Chapter Summary
+**Chapter Summary**
 - Small changes in context can lead to large changes in behavior over time.
 - Every habit is initiated by a cue. We are more likely to notice cues that stand out.
 - Make the cues of good habits obvious in your environment.
@@ -175,7 +188,7 @@ Once you notice something, you begin to want it.
 - It’s easier to avoid temptation than resist it.One of the most practical ways to eliminate a bad habit is to reduce exposure to the cue that causes it.
 - Self-control is a short-term strategy, not a long-term one.
 
-# 3 THe 2nd Law Make it Attractive
+# 3 The 2nd Law Make it Attractive
 ## 3.1 How to make habits irresistable
 It is the anticipation of a reward—not the fulfillment of it—that gets us to take action.
 
@@ -192,6 +205,7 @@ Humans are herd animals. We want to fit in, to bond with others, and to earn the
 
 所以学生需要集体，需要小群体。those who collaborated and bonded with others enjoyed increased safety, mating opportunities, and access to resources. As Charles Darwin noted, “In the long history of humankind, those who learned to collaborate and improvise most effectively have prevailed.” As a result, one of the deepest human desires is to belong. And this ancient preference exerts a powerful influence on our modern behavior.
 
+我们常常会模仿亲密的、多数的、或有影响力的人的行为
 We imitate the habits of three groups in particular: **The close.The many. The powerful.**
 
 Our friends and family provide a sort of invisible peer pressure that pulls us in their direction.
@@ -278,7 +292,23 @@ You’ll find that nearly any habit can be scaled down into a two-minute version
 - “Run three miles” becomes “Tie my running shoes.”
 
 **New words：**
-leukemia白血病，biopsies活组织切片检查，bulged鼓起，肿胀，precarious不确定，不稳定的，seep渗出，on pause，rehabilitation康复，复原，varsity大学代表队的，lackluster暗淡，Plateau of Latent Potential, marginal 最低限度的,  incongruent不协调的, manicure美甲, bicep二头肌, allegiance忠诚, slumber睡眠，麻木状态, paramedic护理人员, blockage封锁，妨碍, artery动脉, peripheral外围的不重要的, swipe猛击，偷窃，upend颠倒，颠覆，relapse旧病复发，再度堕落，engulfed，latch插梢, legion军队军团, innate先天固有的, adamant, meticulous一丝不苟精确的, courted, herring gull, prone有倾向.., bundling捆绑, trajectory轨道, hone打磨, bog陷入泥沼, Pregame jitters赛前紧张, salivate分泌唾液, OVERHAUL彻底检修, detergent清洁剂，洗涤剂
+
+WORDS | WORDS | WORDS
+-------| --------- | -----------------
+leukemia白血病 | biopsies活组织切片检查 | bulged鼓起,肿胀
+precarious不确定, 不稳定的 | seep渗出 | on pause
+rehabilitation康复，复原 | varsity大学代表队的 | lackluster暗淡
+Plateau of Latent Potential | marginal 最低限度的 | incongruent不协调的
+manicure美甲 | bicep二头肌 | allegiance忠诚 
+slumber睡眠,麻木状态 | paramedic护理人员 | blockage封锁，妨碍
+artery动脉 | peripheral外围的不重要的 | swipe猛击，偷窃
+upend颠倒，颠覆 | relapse旧病复发，再度堕落 | engulfed
+latch插梢 | legion军队军团 | innate先天固有的
+adamant | meticulous一丝不苟精确的 | courted
+herring gull | prone有倾向..| bundling捆绑 
+trajectory轨道 | hone打磨 | bog陷入泥沼
+Pregame jitters赛前紧张 | salivate分泌唾液 | OVERHAUL彻底检修
+detergent清洁剂，洗涤剂 |
 
 ## 废话
 身边有人永远在提升自己，在阅读，突破自己的认知局限。这本书断断续续读了好几个月了，书最好还是一本一本看，不适合multitasking。一开始书本和《Ultralearning》一起看的，导致这两本书都没看完。两本书都非常有帮助。目前为止帮助我养成了几个习惯，第一是不刷微信朋友圈，第二是运动，第三是每天用洗面奶洗脸和刷牙喝水。当然了，现在这些习惯还没有完全养成，要继续努力。
