@@ -1,9 +1,13 @@
 ---
-title: Atomic Habits by James Clear
-date: 2020-06-14 03:17:37
+title: Atomic Habits by James Clear (2)
+date:  2020-06-18 02:50:56
 tags: [西方文学, 心理学]
 categories: [阅读]
 ---
+***摘抄了很多笔记，因为所有的句子都与改变思维，转换思考方式有关，对我固化的思维有推翻重建的作用。***
+
+**精简版内容，可以看Atomic Habits (1)**
+
 [Intro](#1) 
 [The Fundamentals](#2) 
 [1st Make it Obvious](#3) 
@@ -11,28 +15,16 @@ categories: [阅读]
 [3rd Make it Easy](#5) 
 [4th Make it Satisfying](#6)
 [Advanced Tatics](#7) 
-[Appendix](#8)
 
-<h1 id='1'> Intro </h1>
+**<font color=#89B374><h1 id='1'> Intro </h1></font>**
+
 这本书给我最大的启发是，我总以为在教学中，保持学生的内在的动力，才是持久的可持续性的学习动力，但实际上周围的环境，方法，人都会对自己的行为产生重要影响。我们的确要控制外在的环境，创造一个符合自己学习需求的环境。把学习或习惯的养成变得明显、诱人、简单、令人满足。所以最理想的还是把外在动力用好，最后通过习惯培养出一种内在动力。
 
 书本首先整体介绍了微习惯的爆炸性力量，以及习惯对个人身份的塑造的意义。接着总体介绍了养成习惯的4个laws，分别是cue, craving, response, reward（暗示，渴望，反应，奖励），最后对这4方面展开介绍。
 
-里面很多话都值得回味，可以用在教学工作方面，因此摘抄下来了。
+**<font color=#89B374><h1 id='2'> 1 The fundamentals</h1></font>**
+## <font color=#B5C266>1.1 The Surprising Power of Atomic Habits</font>
 
-
-4 Laws | Create a Good Habit | Break a Bad Habit
--------| --------- | -----------------
-The 1st law (**Cue**): | Make it obvious. | ~ invisible.
-The 2nd law (**Craving**): | ~ attractive. | ~ unattractive.
-The 3rd law (**Response**): | ~ easy. | ~ difficult.
-The 4th law (**Reward**): | ~ satisfying. | ~ unsatisfying.
-
-***附上详细方法表格：（tbc）***
-
-
-# 1 The fundamentals
-## 1.1 The Surprising Power of Atomic Habits
 量变到质变的过程，会有一个突破点
 Breakthrough moments are often the result of many previous actions, which build up the potential required to unleash a major change.
 
@@ -43,21 +35,22 @@ FORGET ABOUT GOALS, FOCUS ON SYSTEMS INSTEAD
 
 True long-term thinking is goal-less thinking. It’s not about any single accomplishment. It is about the cycle of endless refinement and continuous improvement. Ultimately, it is your commitment to the process that will determine your progress.是的，关注过程，弱化目标带来的影响。
 
-**Chapter Summary** 别再设置目标了！
+**chapter summary** 别再设置目标了！
 Habits are the compound interest of self-improvement. Getting 1 percent better every day counts for a lot in the long-run. Habits are a double-edged sword. They can work for you or against you, which is why understanding the details is essential.
 
+Small changes often appear to make no difference until you cross a critical threshold. The most powerful outcomes of any compounding process are delayed. You need to be patient. 
 
-Small changes often appear to make no difference until you cross a critical threshold. The most powerful outcomes of any compounding process are delayed. You need to be patient. An atomic habit is a little habit that is part of a larger system. Just as atoms are the building blocks of molecules, atomic habits are the building blocks of remarkable results.
+An atomic habit is a little habit that is part of a larger system. Just as atoms are the building blocks of molecules, atomic habits are the building blocks of remarkable results.
 
 说得好！**If you want better results, then forget about setting goals**. Focus on your system instead.You do not rise to the level of your goals. You fall to the level of your systems.
 
-## 1.2 How Your Habits Shape Your Identity (and Vice Versa)
+## <font color=#B5C266> 1.2 HOW YOUR HABITS SHAPE YOUR IDENTITY (AND VICE VERSA)</font>
 哎，有许多事情，我都是一时兴起在做，包括法语，日语，写博客等，occasional burst of motivation
 
-outcome, process, identiy 三个的定义：
-Outcomes are about what you get. 
-Processes are about what you do. 
-Identity is about what you believe.
+**outcome, process, identiy** 三个的定义：
+Outcomes are about **what you get**. 
+Processes are about **what you do.** 
+Identity is about **what you believe.**
 
 **True behavior change is identity change真正的行为变化是个人身份认同的变化**
 - The goal is not to read a book, the goal is to become a reader.
@@ -73,13 +66,14 @@ Your identity is literally your “repeated beingness.”
 
 Each habit not only gets results but also teaches you something far more important: to trust yourself. You start to believe you can actually accomplish these things.
 
-**Chapter Summary**
-- There are three levels of change: *outcome change, process change, and identity change*. The most effective way to change your habits is to focus not on what you want to achieve, but on who you wish to become.
+**chapter summary**
+- There are three levels of change: *outcome change, process change, and identity change*. 
+- The most effective way to change your habits is to focus not on what you want to achieve, but on who you wish to become.
 - Your identity emerges out of your habits. Every action is a vote for the type of person you wish to become. 
 - Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity.
 - The real reason habits matter is not because they can get you better results (although they can do that), but because they can change your beliefs about yourself.
 
-## 1.3 How to Build Better Habits in 4 Simple Steps
+## <FONT COLOR=#B5C266> 1.3 How to Build Better Habits in 4 Simple Steps</FONT> 
 
 渴望是改变行为习惯的原因，是动力。Every craving is linked to a desire to change your internal state.
 
@@ -89,35 +83,37 @@ The response is the actual habit you perform, which can take the form of a thoug
 前两个cue, craving是问题阶段
 后两个response, reward为解决阶段。
 
-**Chapter Summary**
+**chapter summary**
 - A habit is a behavior that has been repeated enough times to become automatic.
 - The ultimate purpose of habits is to solve the problems of life with as little energy and effort as possible.
 - Any habit can be broken down into a feedback loop that involves four steps: cue, craving, response, and reward.
 - The Four Laws of Behavior Change are a simple set of rules we can use to build better habits. 
 - They are (1) make it obvious, (2) make it attractive, (3) make it easy, and (4) make it satisfying.
 
-# 2 The 1st Law Make it Obvious
-## 2.1 The man who didn't look right
+**<font color=#89B374><h1 id='3'> 2 The 1st Law: Make it Obvious</h1></font>** 
+## <FONT COLOR=#B5C266> 2.1 The man who didn't look right</FONT> 
+
 Carl Jung said, “Until you make the unconscious conscious, it will direct your life and you will call it fate.”
 
 Pointing-and-Calling is so effective because it raises the level of awareness from a nonconscious habit to a more conscious level
 
 Habits that reinforce your desired identity are usually good. Habits that conflict with your desired identity are usually bad
 
-**Chapter Summary**
+**chapter summary**
 - With enough practice, your brain will pick up on the cues that predict certain outcomes without consciously thinking about it.
 - Once our habits become automatic, we stop paying attention to what we are doing.
 - The process of behavior change always starts with awareness. You need to be aware of your habits before you can change them.
 - Pointing-and-Calling raises your level of awareness from a nonconscious habit to a more conscious level by verbalizing your actions.
 - The Habits Scorecard is a simple exercise you can use to become more aware of your behavior.
 
-## 2.2 The best way to start a new habit
+## <FONT COLOR=#B5C266>2.2 The best way to start a new habit </FONT> 
 an implementation intention, which is a plan you make beforehand about when and where to act. That is, how you intend to implement a particular habit.
 
 Many people think they lack motivation when what they really lack is **clarity**.
 
 The simple way to apply this strategy to your habits is to fill out this sentence: 
 I will [BEHAVIOR] at [TIME] in [LOCATION].Meditation. I will meditate for one minute at 7 a.m. in my kitchen.
+
 **Studying.** I will study Spanish for twenty minutes at 6 p.m. in my bedroom.
 **Exercise**. I will exercise for one hour at 5 p.m. in my local gym.
 **Marriage**. I will make my partner a cup of tea at 8 a.m. in the kitchen.
@@ -135,7 +131,7 @@ The habit stacking formula is:
 **Marriage**. After I get into bed at night, I will give my partner a kiss.
 **Safety.** After I put on my running shoes, I will text a friend or family member where I am running and how long it will take.
 
-## 2.3 Motivation is overrated; environment often matters more
+## <FONT COLOR=#B5C266> 2.3 Motivation is overrated; environment often matters more</FONT> 
 Every habit is initiated by a cue, and we are more likely to notice cues that stand out.
 
 举例：
@@ -162,14 +158,14 @@ You can use your phone for all sorts of tasks, which makes it a powerful device.
 
 If your space is limited, divide your room into activity zones: **a chair for reading, a desk for writing, a table for eating.** You can do the same with your digital spaces. I know a writer who uses his computer only for writing, his tablet only for reading, and his phone only for social media and texting. Every habit should have a home.
 
-**Chapter Summary**
+**chapter summary**
 - Small changes in context can lead to large changes in behavior over time.
 - Every habit is initiated by a cue. We are more likely to notice cues that stand out.
 - Make the cues of good habits obvious in your environment.
 - Gradually, your habits become associated not with a single trigger but with the entire context surrounding the behavior. The context becomes the cue.
 - It is easier to build new habits in a new environment because you are not fighting against old cues.
 
-## 2.4 The secret of self-control
+## <FONT COLOR=#B5C266> 2.4 The secret of self-control</FONT> 
 
 Bad habits are autocatalytic: the process feeds itself. They foster the feelings they try to numb. You feel bad, so you eat junk food. Because you eat junk food, you feel bad. Watching television makes you feel sluggish, so you watch more television because you don’t have the energy to do anything else.
 
@@ -181,25 +177,25 @@ Once you notice something, you begin to want it.
 - If you’re wasting too much time watching television, move the TV out of the bedroom.
 - If you’re spending too much money on electronics, quit reading reviews of the latest tech gear.If you’re playing too many video games, unplug the console and put it in a closet after each use.
 
-**Chapter Summary**
+**chapter summary**
 - The inversion of the 1st Law of Behavior Change is make it invisible.
 - Once a habit is formed, it is unlikely to be forgotten.
 - People with high self-control tend to spend less time in tempting situations. 
 - It’s easier to avoid temptation than resist it.One of the most practical ways to eliminate a bad habit is to reduce exposure to the cue that causes it.
 - Self-control is a short-term strategy, not a long-term one.
 
-# 3 The 2nd Law Make it Attractive
-## 3.1 How to make habits irresistable
+**<font color=#89B374><h1 id='4'> 3 The 2nd Law: Make it Attractive</h1></font>**
+## <FONT COLOR=#B5C266> 3.1 How to make habits irresistable</FONT> 
 It is the anticipation of a reward—not the fulfillment of it—that gets us to take action.
 
 FIGURE 9这张图很重要，也是心理学的一种
 
-**Chapter Summary**
+**chapter summary**
 - The 2nd Law of Behavior Change is make it attractive.The more attractive an opportunity is, the more likely it is to become habit-forming.Habits are a dopamine-driven feedback loop. When dopamine rises, so does our motivation to act.
 - It is the anticipation of a reward—not the fulfillment of it—that gets us to take action. The greater the anticipation, the greater the dopamine spike.
 - Temptation bundling is one way to make your habits more attractive. The strategy is to pair an action you want to do with an action you need to do.
 
-## 3.2 The role of family and freinds in shaping your habits
+## <FONT COLOR=#B5C266> 3.2 The role of family and freinds in shaping your habits</FONT> 
 
 Humans are herd animals. We want to fit in, to bond with others, and to earn the respect and approval of our peers.
 
@@ -220,14 +216,14 @@ Most days, we’d rather be wrong with the crowd than be right by ourselves.
 Humans everywhere pursue power, prestige, and status.
 We are drawn to behaviors that earn us respect, approval, admiration, and status. 注：所以外在动力是重要的部分，不能全盘否定，内在动力本身就不是完美的
 
-**Chapter Summary**
+**chapter summary**
 - The culture we live in determines which behaviors are attractive to us.We tend to adopt habits that are praised and approved of by our culture because we have a strong desire to fit in and belong to the tribe.
 - We tend to imitate the habits of three social groups: the close (family and friends), the many (the tribe), and the powerful (those with status and prestige).
 - One of the most effective things you can do to build better habits is to join a culture where (1) your desired behavior is the normal behavior and (2) you already have something in common with the group.
 - The normal behavior of the tribe often overpowers the desired behavior of the individual. Most days, we’d rather be wrong with the crowd than be right by ourselves.
 - If a behavior can get us approval, respect, and praise, we find it attractive.
 
-## 3.3 How to find and fix the causes of your bad habits 
+## <FONT COLOR=#B5C266> 3.3 How to find and fix the causes of your bad habits </FONT> 
 
 You can make hard habits more attractive if you can learn to associate them with a positive experience.
 You don’t “have” to. You “get” to.
@@ -242,7 +238,7 @@ You can reframe “I am nervous” to “I am excited and I’m getting an adren
 
 After doing it five, ten, twenty times, putting his headphones on became a cue that he automatically associated with increased focus. The craving followed naturally.
 
-**Chapter Summary**
+**chapter summary**
 - The inversion of the 2nd Law of Behavior Change is make it unattractive.
 - Every behavior has a surface level craving and a deeper underlying motive.
 - Your habits are modern-day solutions to ancient desires.
@@ -250,8 +246,9 @@ After doing it five, ten, twenty times, putting his headphones on became a cue t
 - Highlight the benefits of avoiding a bad habit to make it seem unattractive.
 - Habits are attractive when we associate them with positive feelings and unattractive when we associate them with negative feelings. Create a motivation ritual by doing something you enjoy immediately before a difficult habit.
 
-# 4 The 3rd Law Make it Easy
-## 4.1 Walk slowly, but never backward
+**<font color=#89B374><h1 id='5'> 4 The 3rd Law: Make it Easy</h1></font>**
+
+## <FONT COLOR=#B5C266> 4.1 Walk slowly, but never backward</FONT> 
 
 I refer to this as the difference between being in motion and taking action. The two ideas sound similar, but they’re not the same. When you’re in motion, you’re planning and strategizing and learning. Those are all good things, but they don’t produce a result.
 
@@ -261,14 +258,14 @@ Motion makes you feel like you’re getting things done. But really, you’re ju
 
 habits form based on frequency, not time.
 
-**Chapter Summary**
+**chapter summary**
 - The 3rd Law of Behavior Change is make it easy.
 - The most effective form of learning is practice, not planning.
 - Focus on taking action, not being in motion.
 - Habit formation is the process by which a behavior becomes progressively more automatic through repetition.
 - The amount of time you have been performing a habit is not as important as the number of times you have performed it.
 
-## 4.2 The law of least effort
+## <FONT COLOR=#B5C266>4.2 The law of least effort </FONT> 
 
 Conventional wisdom holds that motivation is the key to habit change. Maybe if you really wanted it, you’d actually do it. But the truth is, our real motivation is to be lazy and to do what is convenient.
 
@@ -277,45 +274,160 @@ Conventional wisdom holds that motivation is the key to habit change. Maybe if y
 - Want to exercise? Set out your workout clothes, shoes, gym bag, and water bottle ahead of time.
 - Want to improve your diet? Chop up a ton of fruits and vegetables on weekends and pack them in containers, so you have easy access to healthy, ready-to-eat options during the week.
 
-**Chapter Summary**为好习惯减少阻力，坏习惯提升阻力
+**chapter summary**为好习惯减少阻力，坏习惯提升阻力
 - Human behavior follows the Law of Least Effort. We will naturally gravitate toward the option that requires the least amount of work.
 - Create an environment where doing the right thing is as easy as possible.
 - Reduce the friction associated with good behaviors. When friction is low, habits are easy.
 - Increase the friction associated with bad behaviors. When friction is high, habits are difficult.
 - Prime your environment to make future actions easier.
 
-## 4.3 How to stop procrastinating by using the two-minute rule
+## <FONT COLOR=#B5C266>4.3 How to stop procrastinating by using the two-minute rule </FONT> 
 
 You’ll find that nearly any habit can be scaled down into a two-minute version:
 - “Read before bed each night” becomes “Read one page.”- “Do thirty minutes of yoga” becomes “Take out my yoga mat.”
 - “Study for class” becomes “Open my notes.”“Fold the laundry” becomes “Fold one pair of socks.”
 - “Run three miles” becomes “Tie my running shoes.”
 
-**New words：**
+You can usually figure out the gateway habits that will lead to your desired outcome by mapping out your goals on a scale from “very easy” to “very hard.”
 
-WORDS | WORDS | WORDS
--------| --------- | -----------------
-leukemia白血病 | biopsies活组织切片检查 | bulged鼓起,肿胀
-precarious不确定, 不稳定的 | seep渗出 | on pause
-rehabilitation康复，复原 | varsity大学代表队的 | lackluster暗淡
-Plateau of Latent Potential | marginal 最低限度的 | incongruent不协调的
-manicure美甲 | bicep二头肌 | allegiance忠诚 
-slumber睡眠,麻木状态 | paramedic护理人员 | blockage封锁，妨碍
-artery动脉 | peripheral外围的不重要的 | swipe猛击，偷窃
-upend颠倒，颠覆 | relapse旧病复发，再度堕落 | engulfed
-latch插梢 | legion军队军团 | innate先天固有的
-adamant | meticulous一丝不苟精确的 | courted
-herring gull | prone有倾向..| bundling捆绑 
-trajectory轨道 | hone打磨 | bog陷入泥沼
-Pregame jitters赛前紧张 | salivate分泌唾液 | OVERHAUL彻底检修
-detergent清洁剂，洗涤剂 |
+Your goal might be to run a marathon, but your gateway habit is to put on your running shoes. That’s how you follow the Two-Minute Rule.
 
-## 废话
-身边有人永远在提升自己，在阅读，突破自己的认知局限。这本书断断续续读了好几个月了，书最好还是一本一本看，不适合multitasking。一开始书本和《Ultralearning》一起看的，导致这两本书都没看完。两本书都非常有帮助。目前为止帮助我养成了几个习惯，第一是不刷微信朋友圈，第二是运动，第三是每天用洗面奶洗脸和刷牙喝水。当然了，现在这些习惯还没有完全养成，要继续努力。
+the point is not to do one thing. The point is to master the habit of showing up.
 
-我最近突然悟出，我为什么逐渐退出了朋友圈。我不再想获得点赞，而想获得共鸣时，朋友圈不再是一个合适的地方。B站许多博主成为了我关注的对象。这里有大量的志同道合的人，有许多催你奋进的人，有许多优质资源，而朋友圈反而充斥着微商，垃圾信息，吃吃喝喝，新闻消息通知等，我不想知道这些，相反，我只想好好读书。朋友圈已经满足不了我了。
+they reinforce the identity you want to build. If you show up at the gym five days in a row—even if it’s just for two minutes—you are casting votes for your new identity.
 
-最近这段时间，是思考自己，人生，世界的时候，个人还有许多的不足需要改进，少抱怨，少说话，对自己没有坏处。
+**chapter summary**
+= Habits can be completed in a few seconds but continue to impact your behavior for minutes or hours afterward.
+- Many habits occur at decisive moments—choices that are like a fork in the road—and either send you in the direction of a productive day or an unproductive one.
+- The Two-Minute Rule states, “When you start a new habit, it should take less than two minutes to do.”
+- The more you ritualize the beginning of a process, the more likely it becomes that you can slip into the state of deep focus that is required to do great things.
+- Standardize before you optimize. You can’t improve a habit that doesn’t exist.
+注：2分钟目标
+
+## <FONT COLOR=#B5C266> 4.4 How to Make Good Habits Inevitable and Bad Habits Impossible</FONT> 
+
+Every Monday, my assistant would reset the passwords on all my social media accounts, which logged me out on each device. All week I worked without distraction. On Friday, she would send me the new passwords. I had the entire weekend to enjoy what social media had to offer until Monday morning when she would do it again. (If you don’t have an assistant, team up with a friend or family member and reset each other’s passwords each week.)
+注: 好绝的一招
+
+**chapter summary**
+The inversion of the 3rd Law of Behavior Change is make it difficult.A commitment device is a choice you make in the present that locks in better behavior in the future.
+The ultimate way to lock in future behavior is to automate your habits.Onetime choices—like buying a better mattress or enrolling in an automatic savings plan—are single actions that automate your future habits and deliver increasing returns over time.
+Using technology to automate your habits is the most reliable and effective way to guarantee the right behavior.
+
+<h1 id='6'> 5 The 4th Law: Make it Satisfying
+
+## <FONT COLOR=#B5C266> 5.1 The Cardinal Rule of Behavior Change</FONT> 
+
+**chapter summary**
+- The 4th Law of Behavior Change is make it satisfying.We are more likely to repeat a behavior when the experience is satisfying.
+- The human brain evolved to prioritize immediate rewards over delayed rewards.The Cardinal Rule of Behavior Change: What is immediately rewarded is repeated. What is immediately punished is avoided.
+- To get a habit to stick you need to feel immediately successful—even if it’s in a small way.
+- The first three laws of behavior change—make it obvious, make it attractive, and make it easy—increase the odds that a behavior will be performed this time. 
+- The fourth law of behavior change—make it satisfying—increases the odds that a behavior will be repeated next time.
+注:尝试开一个习惯养成存储银行账户
+
+## <FONT COLOR=#B5C266> 5.2 How to Stick with Good Habits Every Day</FONT> 
+
+habit tracker.
+**Benefit #1: Habit tracking is obvious.**
+**Benefit #2: Habit tracking is attractive.**
+
+When we get a signal that we are moving forward, we become more motivated to continue down that path.
+
+**Benefit #3: Habit tracking is satisfying.**
+
+Tracking can become its own form of reward.
+
+It feels good to watch your results grow—the size of your investment portfolio, the length of your book manuscript—and if it feels good, then you’re more likely to endure.
+
+First, whenever possible, measurement should be automate;
+Second, manual tracking should be limited to your most important habits;
+Finally, record each measurement immediately after the habit occurs
+
+HOW TO RECOVER QUICKLY WHEN YOUR HABITS BREAK DOWN
+注:我现在正在经历的
+
+No matter how consistent you are with your habits, it is inevitable that life will interrupt you at some point.
+
+Whenever this happens to me, I try to remind myself of a simple rule: never miss twice.
+
+Missing once is an accident. Missing twice is the start of a new habit.
+
+Furthermore, it’s not always about what happens during the workout. It’s about being the type of person who doesn’t miss workouts.
+注:mind blowing
+
+The dark side of tracking a particular behavior is that we become driven by the number rather than the purpose behind it.
+
+This pitfall is evident in many areas of life.
+
+We teach for standardized tests instead of emphasizing learning, curiosity, and critical thinking. In short, we optimize for what we measure. When we choose the wrong measurement, we get the wrong behavior.
+
+**chapter summary**
+- One of the most satisfying feelings is the feeling of making progress.A habit tracker is a simple way to measure whether you did a habit—like marking an X on a calendar.
+- Habit trackers and other visual forms of measurement can make your habits satisfying by providing clear evidence of your progress.
+- Don’t break the chain. Try to keep your habit streak alive.
+- Never miss twice. If you miss one day, try to get back on track as quickly as possible.
+- Just because you can measure something doesn’t mean it’s the most important thing.
+
+## <FONT COLOR=#B5C266> 5.3 How an Accountability Partner Can Change Everything</FONT> 
+
+Creating a habit contract is a straightforward way to do exactly that.
+
+**chapter summary**
+- The inversion of the 4th Law of Behavior Change is make it unsatisfying.
+- We are less likely to repeat a bad habit if it is painful or unsatisfying.
+- An accountability partner can create an immediate cost to inaction. 
+- We care deeply about what others think of us, and we do not want others to have a lesser opinion of us.
+- A habit contract can be used to add a social cost to any behavior. It makes the costs of violating your promises public and painful.
+- Knowing that someone else is watching you can be a powerful motivator.
+
+# 6 Advanced Tactics
+## <FONT COLOR=#B5C266>6.1 The Truth About Talent (When Genes Matter and When They Don’t) </FONT> 
+
+genes do not determine your destiny. They determine your areas of opportunity.
+
+**chapter summary**
+- The secret to maximizing your odds of success is to choose the right field of competition.
+- Pick the right habit and progress is easy. Pick the wrong habit and life is a struggle.
+- Genes cannot be easily changed, which means they provide a powerful advantage in favorable circumstances and a serious disadvantage in unfavorable circumstances.- Habits are easier when they align with your natural abilities. 
+- Choose the habits that best suit you.
+- Play a game that favors your strengths. If you can’t find a game that favors you, create one.
+- Genes do not eliminate the need for hard work. They clarify it. They tell us what to work hard on.
+
+## <FONT COLOR=#B5C266>6.2 The Goldilocks Rule: How to Stay Motivated in Life and Work </FONT> 
+
+The Goldilocks Rule states that humans experience peak motivation when working on tasks that are right on the edge of their current abilities. Not too hard. Not too easy. Just right.
+
+
+The greatest threat to success is not failure but boredom. We get bored with habits because they stop delighting us.
+
+**chapter summary**
+- The Goldilocks Rule states that humans experience peak motivation when working on tasks that are right on the edge of their current abilities.
+- The greatest threat to success is not failure but boredom.
+- As habits become routine, they become less interesting and less satisfying. We get bored.
+- Anyone can work hard when they feel motivated. It’s the ability to keep going when work isn’t exciting that makes the difference.
+- Professionals stick to the schedule; amateurs let life get in the way.
+
+## <FONT COLOR=#B5C266>6.3 The Downside of Creating Good Habits </FONT> 
+
+**chapter summary**
+- The upside of habits is that we can do things without thinking. The downside is that we stop paying attention to little errors.
+- **Habits + Deliberate Practice = Mastery**
+- Reflection and review is a process that allows you to remain conscious of your performance over time.
+- The tighter we cling to an identity, the harder it becomes to grow beyond it.
+
+## <FONT COLOR=#B5C266>Conclusion: The Secret to Results That Last </FONT>  
+
+One formulation of the paradox goes as follows: Can one coin make a person rich? If you give a person a pile of ten coins, you wouldn’t claim that he or she is rich. But what if you add another? And another? And another?
+注:好像可以使用收集金币的方法来使自己的habit visible
+
+## <FONT COLOR=#B5C266>Little Lessons from the Four Laws </FONT>  
+
+We can only be rational and logical after we have been emotional.
+
+
+
+
 
 
 
