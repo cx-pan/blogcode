@@ -1,5 +1,7 @@
 # Instructions
 
+打开git bash，注意不是git cmd
+
 ## 安装node
 
 版本 `10.16.3`
@@ -55,3 +57,14 @@ git push -u origin master
 hexo clean && hexo deploy
 ```
 
+## 如果又要输入github的密码
+打开新的git bash
+```
+cd /
+ssh-agent bash
+ssh-add /c/Users/Administrator/.ssh/id_rsa
+```
+然后就可以使用
+```
+git push -u origin master
+```
