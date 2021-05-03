@@ -1,5 +1,9 @@
 # Instructions
 
+## 安装node
+
+版本 `10.16.3`
+
 ## Sync repo
 
 如果在一台新电脑上，要用命令行下载repo，而不是Downloaded ZIP
@@ -12,6 +16,12 @@ git clone https://github.com/cx-pan/blogcode.git
 git pull origin master
 ```
 检查theme/polarbearsimple文件夹是否有内容，如果没有，则用Downloaded ZIP方式下载theme，解压缩后，手动拷贝将全部文件拷贝到上述文件夹中。
+
+```
+rm package-lock.json
+rm -rf node_modules/
+npm install
+```
 
 ## Writing post
 
