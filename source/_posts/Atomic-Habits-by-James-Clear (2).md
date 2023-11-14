@@ -1,7 +1,7 @@
 ---
 title: Atomic Habits by James Clear (2)
 date:  2020-06-18 02:50:56
-tags: [西方文学, 心理学]
+tags: [西方文学, 心理学, 元认知能力]
 categories: [阅读]
 ---
 ***摘抄了很多笔记，因为所有的句子都与改变思维，转换思考方式有关，对我固化的思维有推翻重建的作用。***
@@ -195,7 +195,7 @@ FIGURE 9这张图很重要，也是心理学的一种
 - It is the anticipation of a reward—not the fulfillment of it—that gets us to take action. The greater the anticipation, the greater the dopamine spike.
 - Temptation bundling is one way to make your habits more attractive. The strategy is to pair an action you want to do with an action you need to do.
 
-## <FONT COLOR=#B5C266> 3.2 The role of family and freinds in shaping your habits</FONT> 
+## <FONT COLOR=#B5C266> 3.2 The role of family and friends in shaping your habits</FONT> 
 
 Humans are herd animals. We want to fit in, to bond with others, and to earn the respect and approval of our peers.
 

@@ -5,10 +5,8 @@ type: "about"
 layout: "about"
 ---
 
-Hi, Chunxiao here :), an English Teacher. 
+Hi, Chunxiao here :). 
 
 The blog is all about my reading and thoughts. 
-I didn't read nor write that much, just started both recently. 
-Hopefully it becomes a habit. 
 
-*Guangzhou, China*, *chunxiao1222@foxmail.com*
+*Guangzhou, China*

@@ -1,7 +1,7 @@
 ---
 title: Atomic Habits by James Clear (1)
 date: 2020-06-18 02:48:56
-tags: [西方文学, 心理学]
+tags: [西方文学, 心理学, 元认知能力]
 categories: [阅读]
 ---
 **Table 1**
